@@ -1,1 +1,12 @@
-theme: minima
+# Site settings
+title: Isonomia
+email: contact@isonomia.fr
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://isonomia.fr # the base hostname & protocol for your site
+
+twitter_username: isonomia_pure
+instagram_username: isonomia_pure
+
+# Build settings
+markdown: kramdown
